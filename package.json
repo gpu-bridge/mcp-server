@@ -1,0 +1,12 @@
+{
+  "name": "@gpu-bridge/mcp-server",
+  "version": "2.0.0",
+  "description": "GPU-Bridge MCP Server — 26 AI services as MCP tools. x402 native for autonomous agents.",
+  "main": "index.js",
+  "bin": { "gpu-bridge-mcp": "index.js" },
+  "keywords": ["mcp", "ai", "gpu", "inference", "llm", "image-generation", "claude", "x402"],
+  "author": "GPU-Bridge <hello@gpubridge.xyz>",
+  "license": "MIT",
+  "homepage": "https://gpubridge.xyz",
+  "repository": { "type": "git", "url": "https://github.com/gpu-bridge/mcp-server" }
+}
