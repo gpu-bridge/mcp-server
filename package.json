@@ -1,5 +1,5 @@
 {
-  "name": "gpu-bridge-mcp-server",
+  "name": "@gpu-bridge/mcp-server",
   "version": "2.1.0",
   "description": "GPU-Bridge MCP Server — 30 AI services as MCP tools. LLM, image, video, audio, embeddings, reranking, PDF parsing, NSFW detection & more. x402 native for autonomous agents.",
   "type": "module",
@@ -10,7 +10,7 @@
   "author": "GPU-Bridge <hello@gpubridge.xyz>",
   "license": "MIT",
   "homepage": "https://gpubridge.xyz",
-  "repository": { "type": "git", "url": "https://github.com/gpu-bridge/mcp-server" },
+  "repository": { "type": "git", "url": "git+https://github.com/gpu-bridge/mcp-server.git" },
   "engines": { "node": ">=18" },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.27.0"
