@@ -1,0 +1,10 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["fjnunezp75"],
+  "name": "GPU-Bridge MCP Server",
+  "description": "Unified GPU inference — 30 AI services via one MCP tool. LLM, image gen, video, speech, vision, document parsing, reranking & more. Pay with USDC (x402) or API key.",
+  "homepage": "https://gpubridge.xyz",
+  "license": "MIT",
+  "categories": ["ai", "inference", "developer-tools"],
+  "keywords": ["gpu", "ai", "inference", "llm", "image-generation", "video", "x402", "embeddings", "rag", "mcp"]
+}
