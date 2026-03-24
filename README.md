@@ -7,6 +7,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io)
 
+[![gpu-bridge-mcp-server MCP server](https://glama.ai/mcp/servers/gpu-bridge/mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/gpu-bridge/mcp-server)
+
 ## What is GPU-Bridge?
 
 [GPU-Bridge](https://gpubridge.io) is a unified GPU inference API with **native x402 support** — the open payment protocol that allows AI agents to autonomously pay for compute with USDC on Base L2. No API keys, no accounts, no human intervention required.
